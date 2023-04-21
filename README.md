@@ -1,6 +1,6 @@
 # CableCutting
 > Optimization of cable cutting
-<img src ="https://github.com/mehdi6669/CableCutting/pic.jpg"/>
+<img src ="https://user-images.githubusercontent.com/17070048/233622805-9f15e04c-064f-400e-9f20-90c8ae6b3692.jpg"/>
 
 ## 🚩 Table of Contents
 
